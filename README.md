@@ -1,6 +1,6 @@
 ## Hello, I'm Bhanuka Wijerathne 👋
 
-I'm a full-stack software developer specializing in Laravel, Vue, and React.
+I'm a full-stack software developer specializing in Laravel, React.js, and Vue.js.
 
 ## 🔥 Expertised Languages & Frameworks
 ![React.js](https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
