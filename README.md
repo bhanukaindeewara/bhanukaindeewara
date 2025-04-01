@@ -1,4 +1,4 @@
-## Hi there, I'm Bhanuka Indeewara Wijerathne 👋
+## Hi there, I'm Bhanuka Wijerathne 👋
 
 <!--
 **bhanukaindeewara/bhanukaindeewara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
