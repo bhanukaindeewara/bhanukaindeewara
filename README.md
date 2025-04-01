@@ -5,6 +5,7 @@ I'm a full-stack software developer specializing in Laravel, Vue, and React.
 ## 🛠 Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
 <!--
 **bhanukaindeewara/bhanukaindeewara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
