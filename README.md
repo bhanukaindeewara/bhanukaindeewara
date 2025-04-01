@@ -1,6 +1,6 @@
 ## Hello, I'm Bhanuka Wijerathne 👋
 
-👨‍💻 I'm a full-stack software developer specializing in Laravel, React.js, and Vue.js.
+👨‍💻 I'm a full-stack software developer specializing in Laravel, React.js, and Vue.js.  
 👨‍🎓 Graduated from University of Colombo School of Computing.
 
 ## 🔥 Expertised Languages & Frameworks
