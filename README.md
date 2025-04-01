@@ -1,4 +1,4 @@
-<p style="font-size: 48px;">Hi there, I'm Bhanuka Wijerathne 👋</p>
+## Hi there, I'm Bhanuka Wijerathne 👋
 I'm a full-stack software developer specializing in Laravel, Vue, and React.
 
 <!--
