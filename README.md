@@ -1,5 +1,7 @@
 ## Hi there, I'm Bhanuka Wijerathne 👋
 
+### I'm a full-stack developer specializing in Laravel, Vue, and React.
+
 <!--
 **bhanukaindeewara/bhanukaindeewara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
