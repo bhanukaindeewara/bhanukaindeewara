@@ -1,6 +1,7 @@
 ## Hello, I'm Bhanuka Wijerathne 👋
 
-I'm a full-stack software developer specializing in Laravel, React.js, and Vue.js.
+👨‍💻 I'm a full-stack software developer specializing in Laravel, React.js, and Vue.js.
+👨‍🎓 Graduated from University of Colombo School of Computing.
 
 ## 🔥 Expertised Languages & Frameworks
 ![React.js](https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -12,18 +13,3 @@ I'm a full-stack software developer specializing in Laravel, React.js, and Vue.j
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<!--
-**bhanukaindeewara/bhanukaindeewara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
